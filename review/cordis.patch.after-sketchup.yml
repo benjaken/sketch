@@ -1,0 +1,50 @@
+# Your patch layer for this dsh profile, applied after every bundle layer:
+# a top-level YAML array of loader patch entries (id-targeted config
+# overrides, disables, and insert lists; `!!js` expressions allowed).
+- id: agent-default-model
+  name: "@deepseek-ai/dsh-agent-default-model"
+  config:
+    provider: deepseek-account
+    model: deepseek-flash
+    reasoningEffort: high
+- id: ui-settings-account
+  name: "@deepseek-ai/dsh-client-ui-settings-account"
+  config:
+    version: 1
+    step: done
+    purpose: development
+    process: compact
+    completion: completed
+    usage: detailed
+    developerTools: true
+- id: ui-chat
+  name: "@deepseek-ai/dsh-client-ui-chat"
+  config:
+    transcriptView: compact
+    performanceUsage: detailed
+- id: ui-settings
+  name: "@deepseek-ai/dsh-client-ui-settings"
+  config:
+    enabled: true
+
+# Local SketchUp MCP, managed from FDS-AI-3D
+- insert:
+    - id: mcp-sketchup
+      name: '@deepseek-ai/dsh-mcp-client'
+      config:
+        serverName: sketchup
+        env:
+          FDS_MCP_AUDIT: 'D:\Codex work\FDS-AI-3D\work\harness-mcp-discovery.jsonl'
+        transport: stdio
+        command: 'D:\Codex work\FDS-AI-3D\.venv\Scripts\python.exe'
+        args:
+          - '-m'
+          - sketchup_mcp_bridge.server
+          - '--host'
+          - '127.0.0.1'
+          - '--port'
+          - '9876'
+          - '--screenshot-dir'
+          - 'D:\Codex work\FDS-AI-3D\work\screenshots'
+        cwd: 'D:\Codex work\FDS-AI-3D\vendor\sketchup-mcp-bridge'
+        failOnStartupError: true

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "P01 Left side",
+    "dimensions_mm": [
+      18,
+      600,
+      2100
+    ]
+  },
+  {
+    "id": "P02 Right side",
+    "dimensions_mm": [
+      18,
+      600,
+      2100
+    ]
+  },
+  {
+    "id": "P03 Bottom",
+    "dimensions_mm": [
+      1164,
+      600,
+      18
+    ]
+  },
+  {
+    "id": "P04 Top",
+    "dimensions_mm": [
+      1164,
+      600,
+      18
+    ]
+  },
+  {
+    "id": "P05 Divider",
+    "dimensions_mm": [
+      18,
+      588,
+      1984
+    ]
+  },
+  {
+    "id": "P06 Back",
+    "dimensions_mm": [
+      1164,
+      12,
+      1984
+    ]
+  },
+  {
+    "id": "P07 Plinth",
+    "dimensions_mm": [
+      1164,
+      18,
+      80
+    ]
+  },
+  {
+    "id": "S1 Left shelf",
+    "dimensions_mm": [
+      573,
+      588,
+      18
+    ]
+  },
+  {
+    "id": "S1 Right shelf",
+    "dimensions_mm": [
+      573,
+      588,
+      18
+    ]
+  },
+  {
+    "id": "S2 Left shelf",
+    "dimensions_mm": [
+      573,
+      588,
+      18
+    ]
+  },
+  {
+    "id": "S2 Right shelf",
+    "dimensions_mm": [
+      573,
+      588,
+      18
+    ]
+  },
+  {
+    "id": "S3 Left shelf",
+    "dimensions_mm": [
+      573,
+      588,
+      18
+    ]
+  },
+  {
+    "id": "S3 Right shelf",
+    "dimensions_mm": [
+      573,
+      588,
+      18
+    ]
+  },
+  {
+    "id": "S4 Left shelf",
+    "dimensions_mm": [
+      573,
+      588,
+      18
+    ]
+  },
+  {
+    "id": "S4 Right shelf",
+    "dimensions_mm": [
+      573,
+      588,
+      18
+    ]
+  }
+]

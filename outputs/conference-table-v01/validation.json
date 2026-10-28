@@ -1,0 +1,193 @@
+{
+  "overall_mm": [
+    3200.0,
+    1390.0,
+    775.0000000000001
+  ],
+  "scene_count": 5,
+  "solid_leaf_count": 36,
+  "all_leaf_parts_solid": true,
+  "parts": [
+    {
+      "name": "01 浅木色圆角桌面 / 厚32mm（推定）",
+      "solid": true,
+      "volume_mm3": 125732346.06323007
+    },
+    {
+      "name": "桌面拼板接缝（推定）",
+      "solid": true,
+      "volume_mm3": 27.679999999971976
+    },
+    {
+      "name": "桌面拼板接缝（推定）",
+      "solid": true,
+      "volume_mm3": 27.679999999971976
+    },
+    {
+      "name": "02 左斜折板式支脚（推定）",
+      "solid": true,
+      "volume_mm3": 69161097.75067368
+    },
+    {
+      "name": "03 右斜折板式支脚（推定）",
+      "solid": true,
+      "volume_mm3": 69161097.75067306
+    },
+    {
+      "name": "04A 前纵向承托梁（推定）",
+      "solid": true,
+      "volume_mm3": 6119999.999999997
+    },
+    {
+      "name": "04B 后纵向承托梁（推定）",
+      "solid": true,
+      "volume_mm3": 6119999.999999997
+    },
+    {
+      "name": "左上承托板",
+      "solid": true,
+      "volume_mm3": 818999.9999999977
+    },
+    {
+      "name": "右上承托板",
+      "solid": true,
+      "volume_mm3": 818999.9999999976
+    },
+    {
+      "name": "线盒底壳",
+      "solid": true,
+      "volume_mm3": 1612800.0000000107
+    },
+    {
+      "name": "线盒前壁",
+      "solid": true,
+      "volume_mm3": 576000.0000000028
+    },
+    {
+      "name": "线盒后壁",
+      "solid": true,
+      "volume_mm3": 576000.0000000028
+    },
+    {
+      "name": "线盒端壁",
+      "solid": true,
+      "volume_mm3": 89600.00000000054
+    },
+    {
+      "name": "线盒端壁",
+      "solid": true,
+      "volume_mm3": 89600.00000000054
+    },
+    {
+      "name": "面板",
+      "solid": true,
+      "volume_mm3": 66564.00000000013
+    },
+    {
+      "name": "插孔示意",
+      "solid": true,
+      "volume_mm3": 59.499999999997655
+    },
+    {
+      "name": "插孔示意",
+      "solid": true,
+      "volume_mm3": 59.49999999999781
+    },
+    {
+      "name": "插孔示意",
+      "solid": true,
+      "volume_mm3": 67.99999999999585
+    },
+    {
+      "name": "面板",
+      "solid": true,
+      "volume_mm3": 66564.00000000045
+    },
+    {
+      "name": "插孔示意",
+      "solid": true,
+      "volume_mm3": 59.49999999999762
+    },
+    {
+      "name": "插孔示意",
+      "solid": true,
+      "volume_mm3": 59.499999999992745
+    },
+    {
+      "name": "插孔示意",
+      "solid": true,
+      "volume_mm3": 67.99999999999588
+    },
+    {
+      "name": "面板",
+      "solid": true,
+      "volume_mm3": 66564.00000000012
+    },
+    {
+      "name": "插孔示意",
+      "solid": true,
+      "volume_mm3": 59.499999999997655
+    },
+    {
+      "name": "插孔示意",
+      "solid": true,
+      "volume_mm3": 59.499999999997655
+    },
+    {
+      "name": "插孔示意",
+      "solid": true,
+      "volume_mm3": 67.99999999999585
+    },
+    {
+      "name": "前半装饰盖板",
+      "solid": true,
+      "volume_mm3": 653400.00000001
+    },
+    {
+      "name": "后半装饰盖板",
+      "solid": true,
+      "volume_mm3": 653400.00000001
+    },
+    {
+      "name": "左端封口",
+      "solid": true,
+      "volume_mm3": 19980.000000000044
+    },
+    {
+      "name": "右端封口",
+      "solid": true,
+      "volume_mm3": 19980.000000000047
+    },
+    {
+      "name": "理线刷",
+      "solid": true,
+      "volume_mm3": 57240.000000001266
+    },
+    {
+      "name": "刷毛端部细节",
+      "solid": true,
+      "volume_mm3": 0.8999999999998805
+    },
+    {
+      "name": "刷毛端部细节",
+      "solid": true,
+      "volume_mm3": 0.8999999999998805
+    },
+    {
+      "name": "刷毛端部细节",
+      "solid": true,
+      "volume_mm3": 0.8999999999999941
+    },
+    {
+      "name": "刷毛端部细节",
+      "solid": true,
+      "volume_mm3": 0.8999999999999941
+    },
+    {
+      "name": "刷毛端部细节",
+      "solid": true,
+      "volume_mm3": 0.8999999999998805
+    }
+  ],
+  "notes": "Confirmed overall size only. Internal structure, sockets, edge radii, thicknesses and material appearance inferred."
+}

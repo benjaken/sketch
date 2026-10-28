@@ -1,0 +1,19 @@
+# 待合并草案，尚未应用。仅在修复、建环境和安装插件后使用。
+- insert:
+    - id: mcp-sketchup
+      name: '@deepseek-ai/dsh-mcp-client'
+      config:
+        serverName: sketchup
+        transport: stdio
+        command: 'D:\Codex work\FDS-AI-3D\.venv\Scripts\python.exe'
+        args:
+          - '-m'
+          - sketchup_mcp_bridge.server
+          - '--host'
+          - '127.0.0.1'
+          - '--port'
+          - '9876'
+          - '--screenshot-dir'
+          - 'D:\Codex work\FDS-AI-3D\work\screenshots'
+        cwd: 'D:\Codex work\FDS-AI-3D\vendor\sketchup-mcp-bridge'
+        failOnStartupError: true

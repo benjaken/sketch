@@ -1,0 +1,22 @@
+{
+  "server": {
+    "name": "SketchUp MCP Bridge",
+    "title": null,
+    "version": "1.30.0",
+    "websiteUrl": null,
+    "icons": null
+  },
+  "tools": [
+    "eval_ruby",
+    "get_scene_info",
+    "get_selection",
+    "screenshot"
+  ],
+  "scene_before": "title=bridge-validation entities=95 selection=0 length_unit_code=2 bounds_min=[-6.848715143390905e-11, -117.45996719999899, 0.0] bounds_max=[388.341949735772, 371.61290322587513, 386.30600008938137]",
+  "mcp_error_semantics": true,
+  "generated": "{\"part_count\":15,\"size_mm\":[1200,600,2100]}",
+  "saved": "D:\\Codex work\\FDS-AI-3D\\outputs\\FDS-demo-cabinet.skp",
+  "scene_after": "title=FDS-demo-cabinet entities=1 selection=0 length_unit_code=2 bounds_min=[0.0, 0.0, 0.0] bounds_max=[47.24409448818898, 23.62204724409449, 82.67716535433071]",
+  "screenshot_bytes": 19206,
+  "skp_bytes": 57363
+}

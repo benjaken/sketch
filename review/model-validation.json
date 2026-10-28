@@ -1,0 +1,70 @@
+{
+  "path": "D:\\Codex work\\FDS-AI-3D\\outputs\\FDS-demo-cabinet.skp",
+  "size_mm": [
+    1200.0,
+    600.0,
+    2100.0
+  ],
+  "parts": [
+    {
+      "name": "P01 Left side",
+      "solid": true
+    },
+    {
+      "name": "P02 Right side",
+      "solid": true
+    },
+    {
+      "name": "P03 Bottom",
+      "solid": true
+    },
+    {
+      "name": "P04 Top",
+      "solid": true
+    },
+    {
+      "name": "P05 Divider",
+      "solid": true
+    },
+    {
+      "name": "P06 Back",
+      "solid": true
+    },
+    {
+      "name": "P07 Plinth",
+      "solid": true
+    },
+    {
+      "name": "S1 Left shelf",
+      "solid": true
+    },
+    {
+      "name": "S1 Right shelf",
+      "solid": true
+    },
+    {
+      "name": "S2 Left shelf",
+      "solid": true
+    },
+    {
+      "name": "S2 Right shelf",
+      "solid": true
+    },
+    {
+      "name": "S3 Left shelf",
+      "solid": true
+    },
+    {
+      "name": "S3 Right shelf",
+      "solid": true
+    },
+    {
+      "name": "S4 Left shelf",
+      "solid": true
+    },
+    {
+      "name": "S4 Right shelf",
+      "solid": true
+    }
+  ]
+}
