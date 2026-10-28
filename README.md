@@ -2,6 +2,8 @@
 
 已验证：2026-10-28，Windows / SketchUp 26.1.189 / Ruby 3.2.2 / Python 3.11 / MCP SDK 1.30.0。
 
+仓库：https://github.com/benjaken/sketch —— 换机器请按 [SETUP.md](SETUP.md) 重建环境；桥接源码在 `mcp-bridge/`（已含本项目修订）。
+
 ## 现在可以使用
 
 DeepSeek Harness 已通过热加载启动项目 MCP，并完成 tools/list。工具名称：
